@@ -1,0 +1,23 @@
+{
+  "name": "rps_js",
+  "version": "1.0.0",
+  "description": "Creating a rock paper scissors game to be played over the ethereum blockchain with a node js interface",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamscottbaxter/rps_js.git"
+  },
+  "keywords": [
+    "ethereum",
+    "node"
+  ],
+  "author": "Adam Baxter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamscottbaxter/rps_js/issues"
+  },
+  "homepage": "https://github.com/adamscottbaxter/rps_js#readme"
+}
